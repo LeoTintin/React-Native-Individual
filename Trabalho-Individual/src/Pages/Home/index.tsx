@@ -1,4 +1,3 @@
-import React, { Fragment, useState } from "react";
 import { Text, View, Image, ScrollView, FlatList } from "react-native";
 import { styled } from "./style";
 import Banner from "../../Assets/OnePieceBanner.jpg";
