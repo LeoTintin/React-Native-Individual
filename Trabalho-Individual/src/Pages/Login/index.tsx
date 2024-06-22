@@ -43,7 +43,7 @@ export function Login() {
             height: "15%",
           }}
           source={Banner}
-          alt="fundobotao"
+          alt="Banner"
         />
         <Text style={styled.title}>
           Animes clássicos,filmes épicos e séries infinitas.Está tudo aqui!
